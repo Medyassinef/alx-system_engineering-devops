@@ -1,2 +1,2 @@
 #!/bin/bash
-head /etc/passwd | tail -8 | head -1
+head iacta | tail -8 | head -1
